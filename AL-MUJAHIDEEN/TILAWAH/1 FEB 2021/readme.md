@@ -14,6 +14,6 @@ Arahan seperti berikut :
 2. Murid membaca ayat yang diberi serta rekodkan bacaan murid melalui video.
 
 3. Hantar video bacaan anda untuk disemak bacaan tersebut.
-
-<ifrane width="200" height="100" src="https://www.youtube.com/embed/DinSUYwqcz8?autoplay=1"></iframe>
+.
+<ifrane src="https://www.youtube.com/embed/DinSUYwqcz8?autoplay=1"></iframe>
 
