@@ -15,3 +15,4 @@ Arahan seperti berikut :
 
 3. Hantar video bacaan anda untuk disemak bacaan tersebut.
 </text>
+https://youtu.be/DinSUYwqcz8
